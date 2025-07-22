@@ -1,2 +1,4 @@
 *.net
 !one.net
+
+[aeious]*.txt
